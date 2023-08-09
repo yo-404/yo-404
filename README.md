@@ -16,11 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yo-404&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-404&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yo-404&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 💚 My Activity
-
-![Snake animation](https://github.com/yo-404/yo-404/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
