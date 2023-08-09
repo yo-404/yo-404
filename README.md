@@ -3,6 +3,8 @@
 ## 💫 About Me:
 🔭 I’m currently working on Server Monitoring<br>🌱 I’m currently learning kibana<br>💬 Ask me about AWS , K8s , Docker<br>👯 How to reach me yogeshyadav2801@gmail.com<br>⚡ Fun fact - I love football and computer games<br>🗒️ Find my resume @ 
 
+---
+[![](https://visitcount.itsvg.in/api?id=yo-404&icon=4&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yogeshyadav2801/) 
@@ -17,7 +19,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yo-404&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=yo-404&icon=4&color=0)](https://visitcount.itsvg.in)
+## 💚 My Activity
+
+![Snake animation](https://github.com/yo-404/yo-404/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
