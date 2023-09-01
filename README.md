@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 🔭 I’m currently working on Server Monitoring<br>🌱 I’m currently learning kibana<br>💬 Ask me about AWS , K8s , Docker<br>👯 How to reach me yogeshyadav2801@gmail.com<br>⚡ Fun fact - I love football and computer games<br>🗒️ Find my resume @ 
-[Resume](https://drive.google.com/file/d/1n9dnkPzI3XCMqEHet1RLyN_5KTTwbwsI/view)
+[Resume](https://drive.google.com/file/d/1Hka8VNzMyuB7__Q4oGtbIe4sWK5pgePa/view?usp=sharing)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yo-404&icon=4&color=0)](https://visitcount.itsvg.in)
