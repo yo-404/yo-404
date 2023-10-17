@@ -11,7 +11,7 @@
 [![](https://visitcount.itsvg.in/api?id=yo-404&icon=4&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yogeshyadav2801/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshyadav2801/) 
 
 # 💻 Tech Stack:
 
