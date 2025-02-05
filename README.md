@@ -1,5 +1,5 @@
 
-![Yogesh Yadav(2)](https://github.com/yo-404/yo-404/assets/100558220/d97236d7-bd89-4367-9453-5692eda74f7d)
+
 
 # 👋 Hi there, I am Yogesh
 
