@@ -4,8 +4,7 @@
 # 👋 Hi there, I am Yogesh
 
 ## 💫 About Me:
-🔭 I’m currently working on a Personal project<br>🌱 I’m currently learning Go Lang<br>💬 Ask me about AWS , K8s , Docker<br>👯 How to reach me yogeshyadav2801@gmail.com<br>⚡ Fun fact - I love football and computer games<br>🗒️ Find my resume @ 
-[Resume](https://drive.google.com/file/d/1TvrR4-c8FXkaq0rbCKNxX4RvDosyB-QE/view?pli=1)
+🔭 I’m currently working on a Personal project<br>🌱 I’m currently learning Go Lang<br>💬 Ask me about API development, Docker and webscraping <br>⚡ Fun fact - I love football and FPS games<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yo-404&icon=4&color=0)](https://visitcount.itsvg.in)
